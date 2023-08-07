@@ -1,0 +1,10 @@
+package Gün38._03_Absatracht;
+
+public class GreekSalad extends Salad{
+
+
+    @Override
+    void madeIn() {
+        System.out.println("Yunalılarındır");
+    }
+}
